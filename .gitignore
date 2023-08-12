@@ -1,0 +1,8 @@
+#ignore files
+
+*.log
+
+#ignore directory
+
+temp/
+build/
