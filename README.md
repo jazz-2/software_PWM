@@ -4,8 +4,7 @@ jazz-2 software_PWM library
 
 Demonstration of software_PWM multipleLEDs example on LEDs
 -----------------------------------
-
-
+![multipleLEDs-esp32.gif](https://github.com/jazz-2/software_PWM/assets/141406828/e6f3d96f-84aa-4e7c-80a7-5af899d64205)
 
 Tested on Arduino UNO, Arduino NANO 33 IoT, ESP32.
 -----------------------------------
